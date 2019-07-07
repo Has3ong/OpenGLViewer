@@ -96,6 +96,8 @@ class OpenGLView(QOpenGLWidget):
 
         if self.gl_CULL_FACE:
             glEnable(GL_CULL_FACE)
+            glFrontFace(GL_CW)
+            glCullFace(GL_BACK)
         else:
             glDisable(GL_CULL_FACE)
 

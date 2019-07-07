@@ -33,5 +33,5 @@
 
 ### BackFace Culling
 
-<img width="400" src="https://user-images.githubusercontent.com/44635266/60767473-bffc7080-a0f3-11e9-9d4c-97aef9d163a2.png">
+<img width="400" src="https://user-images.githubusercontent.com/44635266/60767541-82e4ae00-a0f4-11e9-90fc-0e069c8da995.png">
 
